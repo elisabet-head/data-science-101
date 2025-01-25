@@ -4,4 +4,9 @@ channels:
 dependencies:
   - python=3.11
   - mystmd
+  - pandas
+  - numpy
+  - openai
+  - matplotlib
+  - scikit-learn
   - cookiecutter
